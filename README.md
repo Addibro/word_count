@@ -1,4 +1,4 @@
-# word_count
+# word_count :+1:
 
 ## displays the 10 most occurring words in a file 
 
